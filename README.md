@@ -11,7 +11,7 @@ With so many of us in STEM working on grants and research, it's hard to find tim
 View the [idea template](https://github.com/datasnakes/open-source-ideas/blob/master/idea_template.md) and add your idea to the main [README.md](https://github.com/datasnakes/open-source-ideas/blob/master/README.md) by submitting a PR.
 
 
-# Project Name
+# Project 1
 
 Low Quality Video Enhancer
 
